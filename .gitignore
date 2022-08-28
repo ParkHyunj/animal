@@ -1,0 +1,7 @@
+test3.yaml
+이렇게 하면 test3은 git status를 쳐도 나타나지 않는다.
+
+test3.yaml
+/test3.yaml
+*.yaml=> yaml 형식의 모든 파일
+logs/  => logs 안에 있는 모든 파일
